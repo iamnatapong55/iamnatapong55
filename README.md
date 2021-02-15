@@ -11,9 +11,6 @@ I am a data science graduate student with 3 years work experiences together with
 - 😄 Pronouns: His/Him 
 - 🔭 I’m currently working on this page. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnatapong55)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
