@@ -2,6 +2,8 @@
 
 I am Natapong S, a data science graduate living in Chicago.
 
+https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnatapong55)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: Python / R / SQL / MATLAB / Hadoop / Hive / Pig / AWS / EC2 / C++
