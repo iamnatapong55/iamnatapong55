@@ -1,9 +1,11 @@
-### Hi there 👋 I'm Natapong Sornprom 
-I am a data science graduate with experience in analytics and big data. I live in Chicago, IL.
-
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
 
-## Skills: Python / R / SQL / MATLAB / Hadoop / Hive / Pig / AWS / EC2 / C++
+# Natapong S.
+I am a data science graduate student with 3 years work experiences together with analytics and big data projects. I live in Chicago, IL.
+
+## Skills and Experiences
+* 🖥 Python / R / SQL / MATLAB / C++
+* 💾 Hadoop / Hive / Pig / AWS / EC2 / Spark / Hbase
 
 - 💬 Ask me about Data Science, Machine Learning, Cloud Computing etc. 
 - 😄 Pronouns: His/Him 
