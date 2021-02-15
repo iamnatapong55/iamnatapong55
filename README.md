@@ -1,7 +1,7 @@
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
 
 # Natapong S.
-I am a data science graduate student with 3 years work experiences together with analytics and big data projects. I live in Chicago, IL.
+I am a data science graduate student with 3 years work experiences together with machine learning and big data projects.
 
 ## Skills and Experiences
 * 🖥 Python / R / SQL / MATLAB / C++
