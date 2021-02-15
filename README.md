@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-S![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
+![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
 
 
-I am Natapong S, a data science graduate living in Chicago.
+I am Natapong, a data science graduate living in Chicago.
+
 Skills: Python / R / SQL / MATLAB / Hadoop / Hive / Pig / AWS / EC2 / C++
 
 - 🔭 I’m currently working on this page. 
