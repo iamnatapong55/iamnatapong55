@@ -6,6 +6,7 @@ I am a data science graduate student with 3 years work experiences together with
 ## Skills and Experiences
 * 🖥 Python / R / SQL / MATLAB / C++
 * 💾 Hadoop / Hive / Pig / AWS / EC2 / Spark / Hbase
+* 🧰 Research / Tech / Oil&Gas / Financial / Marketing
 
 - 💬 Ask me about Data Science, Machine Learning, Cloud Computing etc. 
 - 😄 Pronouns: His/Him 
