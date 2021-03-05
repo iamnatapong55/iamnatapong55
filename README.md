@@ -1,13 +1,13 @@
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
 
 # Natapong S.
-I am a data science graduate student with 3 years professional work experiences together with machine learning and big data projects.
+I am a data science graduate student with 3+ years professional work experience together with machine learning and big data projects.
 
 ## Skills and Experiences
-* 🖥 Python / R / SQL / MATLAB / C++
-* 💾 Hadoop / Hive / Pig / AWS / EC2 / Spark / Hbase
-* 🌅 Tableau, Power BI, Seaborn, Plotly, D3, 
-* 🧰 Research / Tech / Oil&Gas / Financial / Marketing / Supply Chain
+* 🖥 Python | R | SQL | NoSQL | MATLAB | C++
+* 💾 Hadoop | Hive | Pig | AWS | EC2 | Spark | Hbase
+* 🌅 Tableau | Power BI| Seaborn| Plotly| D3 | Matplotlib
+* 🧰 Research | Oil&Gas | Financial | Marketing
 
 * This site is under construction, my apologies for any inconvenience!
 
