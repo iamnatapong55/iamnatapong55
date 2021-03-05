@@ -6,7 +6,7 @@ I am a data science graduate student with 3+ years professional work experience 
 ## Skills and Experiences
 * 🖥 Python | R | SQL | NoSQL | MATLAB | C++
 * 💾 Hadoop | Hive | Pig | AWS | EC2 | Spark | Hbase
-* 🌅 Tableau | Power BI| Seaborn| Plotly| D3 | Matplotlib
+* 🌅 Tableau | Power BI | Seaborn| Plotly | D3 | Matplotlib
 * 🧰 Research | Oil&Gas | Financial | Marketing
 
 * This site is under construction, my apologies for any inconvenience!
