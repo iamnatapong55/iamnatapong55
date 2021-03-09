@@ -4,10 +4,10 @@
 I am a data science graduate student with 3+ years professional work experience together with machine learning and big data projects.
 
 ## Skills and Experiences
-* 🖥 Python | R | SQL | NoSQL | MATLAB | Git | C++
+* 🖥 Python | R | SQL | NoSQL | MATLAB | Git | ETL | C++
 * 💾 Hadoop | Hive | Pig | AWS | EC2 | Spark | Hbase
 * 🌅 Tableau | Power BI | Seaborn| Plotly | D3 | Matplotlib
-* 🧰 Research | Tech | Financial | Marketing | Consulting
+* 🧰 Research | Financial | Marketing | Consulting
 
 * This site is under construction, my apologies for any inconvenience and incompletion !
 
