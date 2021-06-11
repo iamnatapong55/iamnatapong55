@@ -1,6 +1,6 @@
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
 
-# Natapong S.
+
 I am a data science graduate student with 3+ years professional work experience together with machine learning and big data projects.
 
 ## Skills and Experiences
