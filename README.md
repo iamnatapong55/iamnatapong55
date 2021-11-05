@@ -4,10 +4,10 @@
 I am a data science graduate student with 3+ years professional work experience together with machine learning and big data analytics projects. In addition, I am interersted in aggregating data pieplines so that I can formulate my own data sources and data warehouse for analysis application. 
 
 ## Skills and Experiences
-* 🖥 Python | R | SQL | NoSQL | MATLAB | Git | ETL | C++
-* 💾 Hadoop | Big Data --> Hive | Pig | AWS Cloud | EC2 | Spark | Hbase
-* 🌅 Tableau | Power BI | Seaborn| Plotly | D3 | Matplotlib
-* 🧰 Research | Financial | Marketing | Consulting
+* 🖥 Python | R | SQL | NoSQL | MATLAB | Git | ETL/ELT | C++
+* 💾 AWS | GCP | BigQuery | Data Warehouse | Hadoop | Hive | Pig | S3 | EC2 | Spark 
+* 🌅 Power BI | Tableau | Qlik Sense | Google Data Studio | Plotly | D3.js
+* 🧰 Research | Financial | Marketing | Healthcare
 
 * This site is under construction, my apologies for any inconvenience !
 
