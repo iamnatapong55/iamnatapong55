@@ -6,8 +6,8 @@ I am a data science graduate student with 3+ years professional work experience 
 ## Skills and Experiences
 * 🖥 Python | R | SQL | NoSQL | MATLAB | Git | ETL/ELT | C++
 * 💾 AWS | GCP | BigQuery | Data Warehouse | Hadoop | Hive | Pig | S3 | EC2 | Spark 
-* 🌅 Power BI | Tableau | Qlik Sense | Google Data Studio | Plotly | D3.js
-* 🧰 Research | Financial | Marketing | Healthcare
+* 🌅 Power BI | Tableau | QlikView | Google Data Studio | Plotly | D3.js
+* 🧰 Research | Financial | Marketing | Healthcare | Insurance
 
 * This site is under construction, my apologies for any inconvenience !
 
