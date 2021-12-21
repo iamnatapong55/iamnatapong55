@@ -1,11 +1,11 @@
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
 
 
-I am a data science professional with 3+ years professional experience together with machine learning and big data analytics projects. In addition, I am interersted in aggregating data pieplines so that I can formulate my own data sources and data warehouse for analysis applications. 
+I am a data science professional with 3+ years professional experience together with machine learning and big data analytics projects. In addition, I am interersted in building and aggregating data pieplines so that I can formulate my own data sources and data warehouse for data science applications. 
 
 ## Skills and Experiences
 * 🖥 Python | R | SQL | NoSQL | MATLAB | Git | ETL/ELT | C++
-* 💾 AWS | GCP | BigQuery | Data Warehouse | Hadoop | Hive | Pig | S3 | EC2 | Spark 
+* 💾 AWS | GCP | BigQuery | Data Warehouse | Hadoop | Airflow | Kafka | S3 | EC2 | Spark 
 * 🌅 Power BI | Tableau | QlikView | Google Data Studio | Plotly | D3.js
 
 * This site is under development, my apologies for any inconvenience !
