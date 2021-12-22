@@ -6,7 +6,7 @@ I am a data science professional with 3+ years professional experience together 
 ## Skills and Experiences
 * 🖥 Python | R | SQL | NoSQL | MATLAB | Git | ETL/ELT | C++
 * 💾 AWS | GCP | BigQuery | Data Warehouse | Hadoop | S3 | EC2 | Spark | Airflow | Kafka
-* 🌅 Power BI | Tableau | QlikView | Google Data Studio | Plotly | D3.js
+* 🌅 Power BI | Tableau | Google Data Studio | Plotly | D3.js
 
 * This site is under development, my apologies for any inconvenience !
 
