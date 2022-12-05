@@ -1,5 +1,3 @@
-<h1 align="center">Hi! I'm Natapong</h1>
-
 <p align="center">
   
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
