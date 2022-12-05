@@ -2,6 +2,7 @@
 
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
 
+<h1 align="center">![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)</h1>
 
 I am a data science professional with 3+ years professional experience together with machine learning and big data analytics projects. In addition, I am interersted in building and aggregating data pieplines so that I can formulate my own data sources and data warehouse for data science applications. 
 
