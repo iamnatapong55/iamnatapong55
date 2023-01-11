@@ -5,8 +5,8 @@
 I am a data science professional with 4+ years professional experience together with data engineering, machine learning and automation projects. In particular, I am interersted in aggregating data platforms and building useful applications to allow more people to make use of them. Also, this would allow me to gather more meta-data to understand people, algorithms and improve my projects. I integrte data sources and build data warehouse myself to formulate big data and publish the data science applications to help people live their life easier. 
 
 ## Skills and Experiences
-* 🖥 Python | R | SQL | NoSQL | MATLAB | Git | ETL/ELT | C++ | VBA Macro
-* 💾 AWS | GCP | BigQuery | Data Warehouse | Hadoop | S3 | EC2 | Spark | Airflow | Kafka
+* 🖥 Python | R | Julia | SQL | NoSQL | MATLAB | Git | ETL/ELT | C#.NET | Excel VBA
+* 💾 AWS | GCP | BigQuery | Azure | Data Factory | Data Warehouse | Spark | Airflow | Docker | Kafka
 * 🌅 Power BI | Tableau | Google Data Studio | Plotly | D3.js
 
 * This site is always in development and there are a lot going on. 
