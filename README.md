@@ -2,10 +2,10 @@
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
   
 
-I am a data science professional with 4+ years professional experience together with data engineering, machine learning and automation projects. In particular, I am interersted in aggregating data platforms and building useful applications to allow more people to make use of them. Also, this would allow me to gather more meta-data to understand people, algorithms and improve my projects. I integrte data sources and build data warehouse myself to formulate big data and publish the data science applications to help people live their life easier. 
+As a data science professional with over five years of experience, I specialize in the full spectrum of data engineering, including the development of end-to-end solutions. My expertise lies in harnessing and integrating diverse data sources, creating robust data warehouses, and implementing machine learning and analytics to develop accessible, user-friendly applications. My work focuses on simplifying complex data processes, from collection and analysis to application deployment, enabling users to make informed decisions effortlessly. This comprehensive approach ensures that I not only deliver data-driven solutions but also continuously improve them based on insights gained from real-world use, embodying the essence of a full-stack data engineer.
 
 ## Skills and Experiences
-* 🖥 Python | R | Julia | SQL | NoSQL | MATLAB | Git | ETL/ELT | Excel VBA
+* 🖥 Python | R | Julia | SQL | NoSQL | MATLAB | Git | ETL/ELT | CI/CD
 * 💾 GCP | BigQuery | Azure | Data Factory | Data Warehouse | Spark | Airflow | Docker | Kafka
 * 🌅 Power BI | Looker | Tableau | Plotly | D3.js
 
