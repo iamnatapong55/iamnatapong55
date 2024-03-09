@@ -4,6 +4,8 @@
 
 As a data science professional with over five years of experience, I specialize in the full spectrum of data engineering, including the development of end-to-end solutions. My expertise lies in harnessing and integrating diverse data sources, creating robust data warehouses, and implementing machine learning and analytics to develop accessible, user-friendly applications. My work focuses on simplifying complex data processes, from collection and analysis to application deployment, enabling users to make informed decisions effortlessly. This comprehensive approach ensures that I not only deliver data-driven solutions but also continuously improve them based on insights gained from real-world use, embodying the essence of a full-stack data engineer.
 
+NOTE: This Github is a personal endeavor, pursued out of personal interest and is not affiliated with any company or professional entity.
+
 ## Skills and Experiences
 * 🖥 Python | R | Julia | SQL | NoSQL | MATLAB | Git | ETL/ELT | CI/CD
 * 💾 GCP | BigQuery | Azure | Data Factory | Data Warehouse | Spark | Airflow | Docker | Kafka
