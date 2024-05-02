@@ -2,13 +2,13 @@
 ![](https://github.com/iamnatapong55/iamnatapong55/blob/main/Banner.jpg)
   
 
-As a data science professional with over five years of experience, I specialize in the full spectrum of data engineering, including the development of end-to-end solutions. My expertise lies in harnessing and integrating diverse data sources, creating robust data warehouses, and implementing machine learning and analytics to develop accessible, user-friendly applications. My work focuses on simplifying complex data processes, from collection and analysis to application deployment, enabling users to make informed decisions effortlessly. This comprehensive approach ensures that I not only deliver data-driven solutions but also continuously improve them based on insights gained from real-world use, embodying the essence of a full-stack data engineer.
+As a data science professional with over five years of experience, I specialize in the full spectrum of data analytics and machine learning, including the development of end-to-end automated solutions. My expertise lies in harnessing and integrating diverse data sources, creating robust data warehouses, and implementing machine learning algorithms and analytics to develop accessible, user-friendly applications. My work focuses on simplifying complex data processes, from collection and analysis to application deployment, enabling users to make informed decisions effortlessly. This comprehensive approach ensures that I not only deliver data-driven solutions but also continuously improve them based on insights gained from real-world use, embodying the essence of a full-stack data professional.
 
 NOTE: This Github is a personal endeavor, pursued out of personal interest and is not affiliated with any company or professional entity.
 
 ## Skills and Experiences
-* 🖥 Python | R | Julia | SQL | NoSQL | MATLAB | Git | ETL/ELT | CI/CD
-* 💾 GCP | BigQuery | Azure | Data Factory | Data Warehouse | Spark | Airflow | Docker | Kafka
+* 🖥 Python | R | Julia | SQL | NoSQL | MATLAB | Git | Github Actions | ETL/ELT | CI/CD | Terraform
+* 💾 GCP | BigQuery | Vertex AI | Azure | Data Factory | Data Warehouse | Spark | Airflow | Docker | Kafka
 * 🌅 Power BI | Looker | Tableau | Plotly | D3.js
 
 * This site is always in development and there are a lot going on. 
